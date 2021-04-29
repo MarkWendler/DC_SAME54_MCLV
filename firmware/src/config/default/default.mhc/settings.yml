@@ -1,0 +1,13 @@
+configName: default
+folderName: ''
+format_version: v1.0
+frameworkPath: ../../../../harmony3
+processor: ATSAME54P20A
+projectName: ''
+settings:
+  PackageFilter: audio;bootloader;bsp;bt;core;core_apps_pic32mk;core_apps_pic32mz_da;core_apps_sam_d5x_e5x;core_apps_sam_e70_s70_v70_v71;crypto;csp;csp_apps_pic32mk;csp_apps_pic32mz_ef;csp_apps_sam_d5x_e5x;gfx;mc_apps_sam_d5x_e5x;mc_apps_sam_e7x_s7x_v7x;micrium_ucos3;motor_control;net;quick_docs;reference_apps;touch;usb;x2c
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.7.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAME54_DFP\3.5.87\atdf\ATSAME54P20A.atdf
