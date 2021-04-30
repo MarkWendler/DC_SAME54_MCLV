@@ -4,13 +4,13 @@
 
 
 project: DC_SAME54_MCLV
-creation_date: 2021-04-29T18:14:57.836+02:00[Europe/Berlin]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
+creation_date: 2021-04-30T12:00:10.495+02:00[Europe/Berlin]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
 operating_system: Windows 10
 mhc_mode: IDE            # [IDE|Standalone|Headless]
 mhc_version: v3.7.1
 mplabx_version: v5.45        # if MPLAB X plugin only
 plugin_version: v3.6.4        # if MPLAB X plugin only
-compiler: XC32 (3.00)
+compiler: XC32 (2.50)
 
 modules:
     - {name: "csp", version: "v3.9.0"}

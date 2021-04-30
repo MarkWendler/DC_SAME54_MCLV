@@ -41,4 +41,4 @@ children:
         children:
         - {type: Value, value: SERCOM2_UART}
 - type: ElementPosition
-  attributes: {x: '252', y: '313', id: X2CScope}
+  attributes: {x: '252', y: '312', id: X2CScope}

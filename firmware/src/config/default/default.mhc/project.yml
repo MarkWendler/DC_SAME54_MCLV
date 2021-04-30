@@ -69,13 +69,13 @@ files:
   security: NON_SECURE
   type: SOURCE
   userChecksum: 45B9106DAE2CB5758B339401C4B085E6
-- generatedChecksum: 555B8E4B50F89AD53B30E2622B022CE0
+- generatedChecksum: DE5E088C8583B82097EB94CD3BA6DC9E
   logicalPath: config\default\peripheral\clock
   name: plib_clock.c
   physicalPath: peripheral\clock
   security: NON_SECURE
   type: SOURCE
-  userChecksum: 555B8E4B50F89AD53B30E2622B022CE0
+  userChecksum: DE5E088C8583B82097EB94CD3BA6DC9E
 - generatedChecksum: D903E8D9DCBC4107D0AA841E07F653BA
   logicalPath: config\default\peripheral\cmcc
   name: plib_cmcc.c
@@ -111,13 +111,13 @@ files:
   security: NON_SECURE
   type: SOURCE
   userChecksum: 9082D591135AB7B7E599F482340E624B
-- generatedChecksum: 2C68540533F337F8E0A5FF2D8D461592
+- generatedChecksum: 7800A890385F31D808DFF7B34E559D0A
   logicalPath: config\default\peripheral\sercom\usart
   name: plib_sercom2_usart.c
   physicalPath: peripheral\sercom\usart
   security: NON_SECURE
   type: SOURCE
-  userChecksum: 2C68540533F337F8E0A5FF2D8D461592
+  userChecksum: 7800A890385F31D808DFF7B34E559D0A
 - generatedChecksum: 94CF79B73AC6254D3EE7B088CAE7CBE3
   logicalPath: config\default\peripheral\tc
   name: plib_tc0.c
